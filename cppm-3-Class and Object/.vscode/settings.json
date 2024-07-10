@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "xstddef": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
